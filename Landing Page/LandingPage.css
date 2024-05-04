@@ -1,0 +1,125 @@
+.a
+{
+    display: flex;
+    background-image: url("https://img.freepik.com/free-photo/supermarket-banner-concept-with-ingredients_23-2149421188.jpg?t=st=1713967842~exp=1713971442~hmac=7df625f35f12cdfcdfb38881135641eaf7b31d8b529f061fc8a0d710445ab543&w=1380");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 80px;
+    height: 60px;
+}
+#b
+{
+    font-size: 50px;
+    font-style:italic;
+    padding-top:50px
+}
+.d
+{
+    border: none;
+    font-size: 17px;
+    margin-left:60px;
+    margin-top: 50px;
+    margin-right: 40px;
+    padding-top:15px;
+    padding-bottom:20px
+}
+.c
+{
+    display: flex;
+    padding-top: 30px;
+}
+#e
+{
+    padding-top: 50px;
+    padding-left:100px;
+    padding-right: 70px;
+    font-size: 17px;
+}
+#f
+{
+    padding-top: 50px;
+    padding-left:100px;
+    font-size: 17px;
+}
+.ca
+{
+    font-size: 40px;
+    font-style: italic;
+    padding-left:150px
+}
+.d
+{
+    display: flex;
+    padding-top: 30px;
+}
+.da
+{
+    font-size: 40px;
+    font-style: italic;
+    padding-left:100px;
+}
+.g
+{
+    display: flex;
+    padding-top: 30px;
+}
+#h
+{
+    padding-top: 50px;
+    padding-left:100px;
+    padding-right:70px;
+    font-size: 17px;
+}
+.ga
+{
+    font-size: 40px;
+    font-style: italic;
+    padding-left:150px;
+}
+.i
+{
+    display: flex;
+    padding-top: 30px;
+}
+#j
+{
+    padding-top: 50px;
+    padding-left:100px;
+    font-size: 17px;
+}
+.ia
+{
+    font-size: 40px;
+    font-style: italic;
+    padding-left:100px;
+}
+.x
+{
+    display: flex;
+    margin-top:30px;
+    background-color: rgb(231, 231, 211);
+}
+#v
+{
+    padding-left: 50px;
+    padding-top: 25px;
+}
+#w
+{
+    padding-left:20px;
+}
+#u
+{
+    padding-top: 25px;
+    padding-left:150px;
+}
+#y
+{
+    padding-top: 25px;
+    padding-left: 70px;
+}
+#z
+{
+    padding-top: 25px;
+    padding-left: 250px;
+}
